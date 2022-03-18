@@ -1,2 +1,1 @@
 # PicGoBed
-图床
